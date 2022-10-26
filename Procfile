@@ -1,1 +1,1 @@
-"appSITUweb: python yourfile.py" 
+web: gunicorn ProyectoSITU.wsgi
